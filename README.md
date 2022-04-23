@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhonghuiHuang
 - 👀 I’m interested in pharmacokinetic modelling and simulation.
-- 🌱 I’m currently learning pharmacometrics in pediatrics as a PhD student at UCL.
+- 🌱 I’m currently study on pharmacometrics in pediatric population as a PhD student at UCL.
 - 📫 How to reach me : My email address is zhonghuihuang.20@ucl.ac.uk. Please feel free to contact me.
 
 <!---
